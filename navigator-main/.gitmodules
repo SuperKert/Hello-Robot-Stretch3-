@@ -1,0 +1,6 @@
+[submodule "O3DSG/thirdParty/segment-anything"]
+	path = O3DSG/thirdParty/segment-anything
+	url = https://github.com/facebookresearch/segment-anything.git
+[submodule "O3DSG/thirdParty/ORB_SLAM2"]
+	path = O3DSG/thirdParty/ORB_SLAM2
+	url = https://github.com/tberriel/ORB_SLAM3

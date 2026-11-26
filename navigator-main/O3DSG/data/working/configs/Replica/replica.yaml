@@ -1,0 +1,36 @@
+dataset_name: "replica"
+
+#gaussian with our dataset
+cam:
+  H: 1280
+  W: 720
+  fx: 908.8179931640625
+  fy: 909.359375
+  cx: 382.536865234375
+  cy: 639.7095336914062
+  depth_scale: 1000.0
+
+
+#dataset_name: "replica"
+#cam:
+#  H: 680
+#  W: 1200
+#  fx: 600.0
+#  fy: 600.0
+#  cx: 599.5
+#  cy: 339.5
+#  depth_scale: 6553.5
+
+
+
+###HM3D
+#dataset_name: "replica"
+#
+#cam:
+#  H: 720
+#  W: 1080
+#  fx: 540.0
+#  fy: 540.0
+#  cx: 540.0
+#  cy: 360.0
+#  depth_scale: 1000.0
